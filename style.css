@@ -1,11 +1,15 @@
 body{
-    background-color: rgba(235, 22, 235, 0.741);
-    color:rgba(213, 67, 246, 0.81)
+    background-color: rgba(14, 7, 95, 0.964);
+    color:rgba(254, 10, 197, 0.977)
     font-family: "Lato", sans-serif;
+    margin: 0px;
 }
 header{
-    font-size: 50px;
-    border:ridge 5px rgb(243, 3, 191);
+    font-size: 55px;
+    border: ridge 5px rgb(243, 3, 191);
+    text-align: center;
+    /*margin: 30px;*/
+    padding: 30px;
 }
 h1{
     font-size: 35px;
