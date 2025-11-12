@@ -1,19 +1,27 @@
 body{
-    background-color: rgba(14, 7, 95, 0.964);
+    background-color: rgba(21, 9, 88, 0.964);
     color:rgba(254, 10, 197, 0.977)
     font-family: "Lato", sans-serif;
     margin: 0px;
 }
 header{
     font-size: 55px;
-    border: ridge 5px rgb(243, 3, 191);
+    border: ridge 5px rgb(172, 19, 139);
     text-align: center;
     /*margin: 30px;*/
     padding: 30px;
+    color: rgb(255, 0, 204);
 }
 h1{
     font-size: 35px;
 }
 p{
     font-size: 25px;
+}
+
+section{
+    background-color: rgba(21, 9,88,0, 964);
+    padding-bottom: 80px;
+    display: flex;
+    justify-content: center;
 }
