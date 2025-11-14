@@ -1,5 +1,5 @@
 body{
-    background-color: rgba(21, 9, 88, 0.964);
+    background-color: rgba(15, 2, 81, 0.96);
     color:rgba(254, 10, 197, 0.977)
     font-family: "Lato", sans-serif;
     margin: 0px;
@@ -24,4 +24,7 @@ section{
     padding-bottom: 80px;
     display: flex;
     justify-content: center;
+    }
+.chamada-texto{
+    margin-right:  10%;;
 }
